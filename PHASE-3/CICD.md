@@ -9,7 +9,8 @@
 2. **Pipeline Maven Integration**:
    - This plugin provides Maven support for Jenkins Pipeline.
    - It allows you to use Maven commands directly within your Jenkins Pipeline scripts.
-   - To install, follow the same steps as above, but search for "Pipeline Maven Integration" instead.
+   - To install, follow the same steps as above, but search for "Pipeline Maven Integration" instead and also install
+   -  "Config File Provider Plugin".
 
 3. **Config File Provider**:
    - This plugin allows you to define configuration files (e.g., properties, XML, JSON) centrally in Jenkins.
